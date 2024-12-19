@@ -1,4 +1,5 @@
 # firstdemoproject
 this is my first git repository
 <br>
-Author - rohit singh
+Author - rohit singh(code editor)
+
